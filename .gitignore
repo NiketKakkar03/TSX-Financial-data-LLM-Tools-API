@@ -1,0 +1,5 @@
+*.dll
+*.exe
+*.cache
+*.pdb
+src/TsxApi/bin/
