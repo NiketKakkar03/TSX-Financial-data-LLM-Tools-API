@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TsxApi.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ea58effba0d16dadbb887adeb2974f78e565b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70cca51fd7f36db0efadabb28ea2e787d5a30f8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TsxApi.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TsxApi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -421,3 +421,8 @@ c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tool
 c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\obj\Debug\net10.0\TsxApi.Tests.pdb
 c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\obj\Debug\net10.0\TsxApi.Tests.genruntimeconfig.cache
 c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\obj\Debug\net10.0\ref\TsxApi.Tests.dll
+c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\bin\Debug\net10.0\Castle.Core.dll
+c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\bin\Debug\net10.0\Microsoft.Extensions.AI.Abstractions.dll
+c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\bin\Debug\net10.0\ModelContextProtocol.dll
+c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\bin\Debug\net10.0\ModelContextProtocol.Core.dll
+c:\Users\niket\OneDrive\Desktop\Programming\Projects\TSX-Financial-data-LLM-Tools-API\tests\TsxApi.Tests\bin\Debug\net10.0\NSubstitute.dll

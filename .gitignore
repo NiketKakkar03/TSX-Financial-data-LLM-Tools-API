@@ -3,3 +3,4 @@
 *.cache
 *.pdb
 src/TsxApi/bin/
+*.txt
