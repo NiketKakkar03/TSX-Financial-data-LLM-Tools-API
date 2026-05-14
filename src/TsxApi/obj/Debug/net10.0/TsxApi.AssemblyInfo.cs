@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TsxApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70cca51fd7f36db0efadabb28ea2e787d5a30f8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf26bf6ed71817717318d26e3ce842e3b7c9be3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TsxApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TsxApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
